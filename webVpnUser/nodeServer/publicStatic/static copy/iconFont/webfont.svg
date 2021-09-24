@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+
+<svg>
+<metadata>
+Created by webfont
+</metadata>
+<defs>
+
+<font id="YRDZST-Bold" horiz-adv-x="256" vert-adv-y="256" >
+  <font-face
+    
+    font-family="YRDZST-Bold"
+    
+    font-weight="400"
+    
+    font-stretch="normal"
+    
+    units-per-em="256"
+    
+    ascent="221"
+    
+    descent="-54"
+    
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="uni56" unicode="&#x56;" d="M127 165Q135 162 141 158L109 76Q85 24 71-2L64-4Q49-2-1 156L-1 165L14 165Q20 162 61 43L64 37Q84 78 119 165L127 165Z"  horiz-adv-x="127" vert-adv-y="256"  />
+
+    
+    <glyph glyph-name="uni62" unicode="&#x62;" d="M20 178L28 178Q37 175 37 162L36 110Q36 102 35 96L66 96Q99 88 101 56Q98-1 53-1Q45-2 28-2L14-2L9 11Q14 11 19 167Q20 173 20 178M35 74L35 57Q33 27 34 23Q82 19 77 57Q73 79 53 75Q34 75 35 74Z"  horiz-adv-x="101" vert-adv-y="256"  />
+
+    
+    <glyph glyph-name="uni65" unicode="&#x65;" d="M44 96Q76 96 83 71Q83 47 23 36L23 37Q25 18 40 19Q51 16 86 33L84 15Q64-3 42-3Q-1-2 0 48Q6 88 44 96M24 56L26 56Q50 56 62 73L62 74Q62 76 57 78L52 78Q25 72 24 56Z"  horiz-adv-x="91" vert-adv-y="256"  />
+
+    
+    <glyph glyph-name="uni6e" unicode="&#x6e;" d="M9 98L28 90Q29 76 27 76L41 87L56 94L59 95Q95 100 85 66L83 42Q84 19 95 18L107 15Q101-2 94-2Q64-7 63 41Q65 61 67 73Q67 72 62 72Q39 61 37 53Q29 40 27-1L12-1Q0 5 4 18Q11 26 11 74Q9 84 9 98Z"  horiz-adv-x="107" vert-adv-y="256"  />
+
+    
+    <glyph glyph-name="uni70" unicode="&#x70;" d="M36 108Q37 93 39 94L64 94Q94 89 94 49Q90 6 39 4Q39-41 12-59Q-1-53-1-45Q17-34 17-2Q19-2 19 14Q19 30 19 39L19 65Q19 63 15 66L0 66L0 74Q18 84 36 108M39 70L39 28Q40 25 40 25L43 25Q62 25 71 42L73 58Q71 75 55 74Q39 72 39 70Z"  horiz-adv-x="94" vert-adv-y="256"  />
+
+    
+    <glyph glyph-name="uni77" unicode="&#x77;" d="M89 99L97 99Q110 91 111 75Q108 52 80 0L73 0Q65 6 54 53L58 43Q58 47 28-3Q11 4 6 92L16 92Q20 92 26 82Q24 70 24 68Q26 43 29 32L30 30L25 30Q39 59 50 86L55 86Q65 86 78 38Q80 39 92 79Q89 88 89 99Z"  horiz-adv-x="111" vert-adv-y="256"  />
+
+    
+
+  </font>
+</defs></svg>

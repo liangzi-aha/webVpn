@@ -1,0 +1,2 @@
+1、修改vue.config.js 修改 publicPath: '/' 
+2、router.js history 改为 createWebHistory

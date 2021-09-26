@@ -8,8 +8,10 @@ const url = require('url');
 // var bodyParser = require('body-parser');
 // 操作客户端cookie
 // const cookieParser = require('cookie-parser');
-// 删除cookie 放到请求里面
+// 删除cookie 放到响应里面 response header（set-cookie）
 // res.clearCookie('name');
+// 设置cookie 放到响应里面 response header（set-cookie）
+// res.cookie('name','张三');
 //设置操作cookie 中间件
 // app.use(cookieParser());
 // 

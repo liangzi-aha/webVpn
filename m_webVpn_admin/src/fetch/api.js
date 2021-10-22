@@ -50,6 +50,7 @@ axios.interceptors.response.use((res) => {
             Toast.fail(res.data.message);
             delCookie('flwebvpn_admin_sessionid');
             history.push('/login');
+            history.go();
         } else{
             Toast.fail(res.data.message);
         }
